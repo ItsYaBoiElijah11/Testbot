@@ -2,7 +2,7 @@ const dbd = require("dbd.js")
 const Database = require("@replit/database")
 
 const bot = new dbd.Bot({
-token: "ODM0NDY3MTQ4MTg5MTM5MDA1.YIBUFw.bf7iB8_D_Xslx_Jt3gzatipZhW4", //Discord Bot Token
+token: "token", //Discord Bot Token
 prefix: "e!" //Customizable
 })
 
