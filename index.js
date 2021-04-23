@@ -1,4 +1,4 @@
-const dbd = require("dbd.js")
+const dbd = require("dbd.js") // npm i dbd.js
 const Database = require("@replit/database")
 
 const bot = new dbd.Bot({
